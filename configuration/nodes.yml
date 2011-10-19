@@ -1,0 +1,10 @@
+---
+pyre:
+    :path: /
+    :user: root
+    :exclude:
+        - /usr/src
+        - /usr/ports
+    :address: pyre.nodes.cycle.io
+namus:
+    :address: namus.nodes.cycle.io
