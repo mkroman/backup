@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Snippet: flunk(..)"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mk/Downloads/pawn/source/amx/examples/prun_jit.c",
+		"/home/mk/Downloads/pawn/source/amx/examples/logfile.cpp",
+		"/home/mk/Downloads/pawn/source/compiler/CMakeLists.txt",
+		"/home/mk/Downloads/pawn/source/compiler/sc1.c",
+		"/home/mk/Downloads/pawn/source/compiler/sc.h",
+		"/home/mk/Downloads/pawn/source/amx/examples/readme.txt",
+		"/home/mk/Downloads/pawn/source/amx/examples/prun1.c",
+		"/home/mk/Downloads/pawn/source/amx/examples/prun2.c",
+		"/home/mk/Downloads/pawn/source/amx/examples/prun4.c",
+		"/home/mk/Downloads/pawn/source/amx/amxcore.c",
+		"/home/mk/Downloads/pawn/xml/pawndoc.xsl",
+		"/home/mk/Projects/Backup/Gemfile",
+		"/home/mk/Downloads/pawnscript-read-only/include/core.inc",
+		"/home/mk/Downloads/pawnscript-read-only/linux/binreloc.h",
+		"/home/mk/Downloads/pawnscript-read-only/amx/amx.c",
+		"/home/mk/Downloads/pawnscript-read-only/CMakeLists.txt",
+		"/home/mk/Downloads/pawnscript-read-only/compiler/CMakeLists.txt",
+		"/home/mk/Downloads/pawn/source/compiler/pawndisasm.c",
+		"/home/mk/Downloads/pawn/source/amx/amx.h",
+		"/home/mk/Downloads/pawnscript-read-only/amx/amx.h",
+		"/home/mk/.zsh/common",
+		"/home/mk/.zsh/.zshrc",
+		"/home/mk/.config/sublime-text-2/Packages/Default/sort.py",
+		"/home/mk/.config/sublime-text-2/Packages/sort-sublime-plugin/Default.sublime-keymap",
+		"/home/mk/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mk/.config/sublime-text-2/Packages/sort-sublime-plugin/sort.py",
+		"/home/mk/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/mk/.config/sublime-text-2/Packages/metabox-sublime-plugin/Default.sublime-keymap",
+		"/home/mk/.zshrc",
+		"/home/mk/Projects/Backup/library/backup.rb",
+		"/home/mk/Projects/Backup/executables/backup.rb",
+		"/home/mk/Projects/Backup/executables/configuration/nodes.yml",
+		"/home/mk/Projects/Backup/library/backup/manager.rb",
+		"/home/mk/Projects/Backup/library/backup/beacon.rb",
+		"/home/mk/Projects/Backup/executables/beacon.rb",
+		"/home/mk/Projects/Backup/executables/archives/namus/20-10-11_17:50:01.tar.xz",
+		"/home/mk/.bin/sublime",
+		"/home/mk/Projects/Blur/Blur.sublime-project",
+		"/home/mk/Projects/Blur/Blur.sublime-workspace",
+		"/home/mk/Projects/Blur/Gemspec",
+		"/home/mk/Projects/Blur/Rakefile",
+		"/home/mk/.Heroes",
+		"/home/mk/.Heroes of Newerth/game/console.log",
+		"/home/mk/.Heroes of Newerth/game/of",
+		"/home/mk/.Heroes of Newerth/game/Newerth/game/console.log",
+		"/home/mk/Projects/Point/translations/point_da.ts",
+		"/home/mk/Projects/Point/test.qm",
+		"/home/mk/Projects/Point/Resources.qrc",
+		"/home/mk/Projects/Point/src/thirdparty/qjson.pri",
+		"/home/mk/Projects/Point/Point.pro",
+		"/home/mk/Projects/Point/src/Point.pro",
+		"/home/mk/Projects/Point/src/thirdparty/qjson/src.pro",
+		"/home/mk/Projects/Point/src/thirdparty/qjson/location.hh",
+		"/home/mk/Projects/Point/src/thirdparty/qjson/qjson_export.h",
+		"/home/mk/Projects/Point/src/thirdparty/qjson/serializer.cpp",
+		"/home/mk/Downloads/qjson/qjson.pro",
+		"/home/mk/Projects/Point/src/thirdparty/qjson/json_parser.yy",
+		"/home/mk/Projects/Backup/library/backup/node.rb",
+		"/home/mk/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/mk/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/home/mk/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/mk/Projects/Backup/Backup.sublime-project",
+		"/home/mk/Projects/Cloud/executables/cronjob.rb",
+		"/home/mk/Projects/Cloud/library/backup/manager.rb",
+		"/home/mk/Projects/Cloud/library/backup.rb",
+		"/home/mk/Projects/Cloud/executables/backup.rb",
+		"/home/mk/Projects/Cloud/Gemfile.lock",
+		"/home/mk/Projects/Cloud/configuration/nodes.yml",
+		"/home/mk/Projects/Cloud/library/backup/node.rb",
+		"/home/mk/Projects/Cloud/library/cloud/node.rb",
+		"/home/mk/Projects/Cloud/library/cloud.rb",
+		"/home/mk/Projects/Cloud/executables/cloud.rb",
+		"/home/mk/Projects/Cloud/library/cloud/manager.rb",
+		"/home/mk/Clients/Abtion/Servers",
+		"/home/mk/Projects/Metabox/api/app.rb",
+		"/home/mk/Projects/Metabox/app/stylesheets/display.sass",
+		"/home/mk/Projects/Metabox/config/apps.rb",
+		"/home/mk/Projects/Sandbox/post-receive",
+		"/home/mk/Projects/Metabox/config/assets.yml",
+		"/home/mk/Projects/Metabox/config/unicorn.rb",
+		"/home/mk/Projects/Metabox/Metabox.sublime-project",
+		"/home/mk/Projects/Metabox/.components",
+		"/home/mk/.config/sublime-text-2/Packages/User/Monokai Soda.tmTheme",
+		"/home/mk/Projects/gitosis-admin/gitosis.conf",
+		"/tmp/backups.txt",
+		"/home/mk/Projects/Metabox/app/models/upload.rb",
+		"/home/mk/pws",
+		"/home/mk/.dotfiles",
+		"/home/mk/Projects/Metabox/app/stylesheets/application.sass",
+		"/home/mk/Projects/Metabox/app/views/uploads/renderers/binary.haml",
+		"/home/mk/Projects/Metabox/app/views/uploads/renderers/audio.haml",
+		"/home/mk/Projects/Metabox/app/views/uploads/renderers/document.haml",
+		"/home/mk/Projects/Metabox/public/stylesheets/colorschemes/twilight.css",
+		"/home/mk/Projects/Metabox/app/views/layouts/simple.haml",
+		"/home/mk/Projects/Metabox/app/views/uploads/renderers/image.haml",
+		"/home/mk/Projects/Metabox/vendor/maion/library/maion/syntax_highlighting.rb",
+		"/home/mk/Projects/Metabox/public/admin/stylesheets/base.css",
+		"/home/mk/.config/sublime-text-2/Packages/User/Ruby Sass.sublime-settings",
+		"/home/mk/Projects/Metabox/app/views/accounts/dashboard.haml",
+		"/home/mk/Projects/Metabox/app/controllers/accounts.rb",
+		"/home/mk/Projects/Metabox/app/app.rb",
+		"/home/mk/Projects/Metabox/app/views/accounts/_uploads.haml",
+		"/home/mk/Projects/Blur/library/blur/handling.rb",
+		"/home/mk/Projects/Meta/meta.rb",
+		"/home/mk/Projects/Blur/library/blur/network.rb",
+		"/home/mk/Projects/Blur/library/blur/client.rb",
+		"/home/mk/Projects/Metabox/Gemfile",
+		"/home/mk/Projects/Metabox/app/views/layouts/application.haml",
+		"/home/mk/Projects/Metabox/app/controllers/base.rb",
+		"/home/mk/Projects/Metabox/admin/app.rb",
+		"/home/mk/Projects/Metabox/app/views/uploads/new.haml",
+		"/home/mk/Projects/Metabox/app/views/_navigation.haml",
+		"/home/mk/Projects/Metabox/app/helpers/announcements_helper.rb",
+		"/home/mk/Projects/Metabox/app/models/folder.rb",
+		"/home/mk/Projects/Metabox/app/models/announcement.rb",
+		"/home/mk/Projects/Metabox/app/models/account.rb",
+		"/home/mk/.bin/gzip-dotfiles",
+		"/home/mk/Projects/Uplink/tracker/app.rb",
+		"/home/mk/Projects/Metabox/app/scripts/application/dashboard.coffee",
+		"/home/mk/Projects/Metabox/app/scripts/application/signup.coffee",
+		"/home/mk/Projects/Metabox/vendor/maion/maion.gemspec",
+		"/home/mk/Projects/Metabox/lib/barista_init.rb",
+		"/home/mk/Projects/Metabox/app/views/base/index.haml",
+		"/home/mk/Projects/Metabox/app/views/accounts/new.haml",
+		"/home/mk/Projects/Metabox/app/stylesheets/icons.sass",
+		"/home/mk/Projects/Metabox/app/helpers/uploads_helper.rb",
+		"/home/mk/Projects/Metabox/app/controllers/uploads.rb",
+		"/home/mk/Projects/Metabox/app/controllers/folders.rb"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 86.0,
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AMX_MAGIC_16",
+			"error",
+			"h3",
+			"h2",
+			"RB_SHARED",
+			"ruby.h",
+			"font-weight: bold ",
+			"MHTML_END",
+			"MHTML_START",
+			"DATA_URI_END",
+			"DATA_URI_START",
+			"png",
+			") ->",
+			"			",
+			"		@",
+			"filesize",
+			".left",
+			"highlight",
+			"ow",
+			"add",
+			"  ",
+			"];",
+			"CMD_LITERAL",
+			"CMD_USER",
+			"CMD_",
+			") {}",
+			"getFlags",
+			"cmdUnhandled",
+			"	}",
+			"cmdUnhandled",
+			"	}",
+			"cmdUnhandled",
+			"	}",
+			"cmdUnhandled",
+			"	}",
+			"cmdUnhandled",
+			"	}",
+			"cmdUnhandled",
+			"	}",
+			"cmdUnhandled",
+			"	}",
+			"cmdUnhandled",
+			"command."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"MHTMLSuffix",
+			"MHTMLPrefix",
+			"DataURISuffix",
+			"DataURIPrefix",
+			"kCmdLiteral",
+			"kCmdUser",
+			") {}",
+			"command->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/mk/.zsh/common"
+			],
+			[
+				"application.haml",
+				"admin/views/layouts/application.haml"
+			],
+			[
+				"make",
+				"Makefile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/mk/Perlite++.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true
+}

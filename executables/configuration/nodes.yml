@@ -1,0 +1,13 @@
+---
+pyre:
+    path: /home/mk/apps
+    user: mk
+    exclude:
+        - dbservice
+    address: pyre.nodes.cycle.io
+    frequency: 60
+namus:
+    path: /home/mk/src
+    user: mk
+    address: namus.nodes.cycle.io
+    frequency: 60
